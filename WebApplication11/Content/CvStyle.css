@@ -1,0 +1,25 @@
+﻿body {
+    margin:0px;
+}
+
+.contain{
+    width:2480px;
+    height:3508px;
+
+}
+.ground-grey {
+    height: 3508px;
+    width: 815px;
+    display: block;
+    background-color: #242424;
+    float:left;
+}
+.ground-white {
+    height: 3508px;
+    width: 1665px;
+    display: block;
+    float:left;
+}
+.clear{
+    clear:both;
+}
